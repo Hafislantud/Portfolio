@@ -3,9 +3,7 @@ import { Section } from "../components/Section";
 
 export const Hero = () => {
   const { personal } = personalDetails;
-
-  // pogi si sir Mark Jaemerl Diestro
-
+  //  Hero section
   return (
     <Section app="Hero" id="hero">
       <div
